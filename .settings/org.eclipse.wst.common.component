@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="an">
+        <wb-resource deploy-path="/" source-path="/components/pdp/src"/>
+        <wb-resource deploy-path="/" source-path="/components/util/src"/>
+        <wb-resource deploy-path="/" source-path="/components/integration/src"/>
+        <wb-resource deploy-path="/" source-path="/components/dems/src"/>
+        <wb-resource deploy-path="/" source-path="/tests/unit/src"/>
+        <wb-resource deploy-path="/" source-path="/tests/indexing/src"/>
+        <wb-resource deploy-path="/" source-path="/tests/conformance20/src"/>
+        <wb-resource deploy-path="/" source-path="/samples/pdpsample/src"/>
+    </wb-module>
+</project-modules>

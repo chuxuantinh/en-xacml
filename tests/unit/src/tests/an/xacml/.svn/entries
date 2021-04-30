@@ -1,0 +1,67 @@
+9
+
+dir
+258
+https://enterprise-java-xacml.googlecode.com/svn/trunk/an/tests/unit/src/tests/an/xacml
+https://enterprise-java-xacml.googlecode.com/svn
+
+
+
+2008-06-01T12:35:36.819708Z
+231
+ppzian
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1a419274-2339-0410-a5a5-13959ab9c6bd
+
+FunctionTest.java
+file
+
+
+
+
+2008-03-14T04:54:40.284000Z
+6cfe5f8971f34ad1451188e1ceee7982
+2007-12-23T14:38:17.703862Z
+144
+ppzian
+
+DataTypeTest.java
+file
+
+
+
+
+2008-05-31T04:44:57.968000Z
+18295f8062b58188f7cdd7094630c0a8
+2008-06-01T12:35:36.819708Z
+231
+ppzian
+
+util
+dir
+
+DefaultElementTest.java
+file
+
+
+
+
+2008-03-14T04:54:40.862000Z
+c0caec28ba34bbc4c2ec12d7a0cb85c2
+2007-12-16T14:44:58.107950Z
+131
+ppzian
+

@@ -1,0 +1,245 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/230/trunk/an/components/pdp/src/an/xacml/adapter/file/policy
+END
+FileAdapterExpression.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/214/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterExpression.java
+END
+FileAdapterSubject.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/214/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterSubject.java
+END
+FileAdapterEnvironment.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/214/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterEnvironment.java
+END
+FileAdapterPolicySet.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/226/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterPolicySet.java
+END
+FileAdapterPolicySetCombinerParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/!svn/ver/224/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterPolicySetCombinerParameters.java
+END
+FileAdapterEnvironmentMatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/214/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterEnvironmentMatch.java
+END
+FileAdapterCombinerParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/224/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterCombinerParameters.java
+END
+FileAdapterEnvironments.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/214/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterEnvironments.java
+END
+FileAdapterActionMatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/214/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterActionMatch.java
+END
+FileAdapterAttributeAssignment.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/224/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterAttributeAssignment.java
+END
+FileAdapterVariableDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/224/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterVariableDefinition.java
+END
+FileAdapterCombinerParameter.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/224/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterCombinerParameter.java
+END
+FileAdapterPolicy.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/226/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterPolicy.java
+END
+FileAdapterTargetElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/224/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterTargetElement.java
+END
+FileAdapterActions.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/214/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterActions.java
+END
+FileAdapterAttributeValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/228/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterAttributeValue.java
+END
+FileAdapterPolicyCombinerParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/224/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterPolicyCombinerParameters.java
+END
+FileAdapterSubjectAttributeDesignator.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/230/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterSubjectAttributeDesignator.java
+END
+FileAdapterVariableReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/224/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterVariableReference.java
+END
+FileAdapterAttributeSelector.java
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/224/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterAttributeSelector.java
+END
+FileAdapterResourceMatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/214/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterResourceMatch.java
+END
+FileAdapterDefaults.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/226/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterDefaults.java
+END
+FileAdapterRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/226/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterRule.java
+END
+FileAdapterResources.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/214/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterResources.java
+END
+FileAdapterObligations.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/224/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterObligations.java
+END
+FileAdapterRuleCombinerParameters.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/!svn/ver/224/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterRuleCombinerParameters.java
+END
+FileAdapterIdReference.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/224/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterIdReference.java
+END
+FileAdapterSubjectMatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/214/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterSubjectMatch.java
+END
+FileAdapterTargetElementMatch.java
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/224/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterTargetElementMatch.java
+END
+FileAdapterAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/214/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterAction.java
+END
+FileAdapterSubjects.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/214/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterSubjects.java
+END
+FileAdapterTargetElements.java
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/224/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterTargetElements.java
+END
+FileAdapterAttributeDesignator.java
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/224/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterAttributeDesignator.java
+END
+FileAdapterFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/224/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterFunction.java
+END
+FileAdapterApply.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/224/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterApply.java
+END
+FileAdapterTarget.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/224/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterTarget.java
+END
+FileAdapterCondition.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/224/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterCondition.java
+END
+FileAdapterObligation.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/224/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterObligation.java
+END
+FileAdapterResource.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/214/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/FileAdapterResource.java
+END
+AbstractFileAdapterPolicyElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/214/trunk/an/components/pdp/src/an/xacml/adapter/file/policy/AbstractFileAdapterPolicyElement.java
+END

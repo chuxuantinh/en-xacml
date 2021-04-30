@@ -1,0 +1,49 @@
+9
+
+dir
+258
+https://enterprise-java-xacml.googlecode.com/svn/trunk/an/components
+https://enterprise-java-xacml.googlecode.com/svn
+
+
+
+2008-06-12T04:12:57.712856Z
+234
+ppzian
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1a419274-2339-0410-a5a5-13959ab9c6bd
+
+pdp
+dir
+
+dems
+dir
+
+util
+dir
+
+build.xml
+file
+
+
+
+
+2008-06-06T06:47:15.164000Z
+cfa20de95b4afb154543e512a3b14d01
+2008-06-08T01:28:16.453419Z
+233
+ppzian
+

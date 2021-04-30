@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/228/trunk/an/components/pdp/src/an/xacml/engine
+END
+Cache.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/213/trunk/an/components/pdp/src/an/xacml/engine/Cache.java
+END
+PDPNotReadyException.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/129/trunk/an/components/pdp/src/an/xacml/engine/PDPNotReadyException.java
+END
+BuiltInFunctionNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/129/trunk/an/components/pdp/src/an/xacml/engine/BuiltInFunctionNotFoundException.java
+END
+CacheSizeExceedCapacityException.java
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/129/trunk/an/components/pdp/src/an/xacml/engine/CacheSizeExceedCapacityException.java
+END
+PolicyResolverRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/217/trunk/an/components/pdp/src/an/xacml/engine/PolicyResolverRegistry.java
+END
+EvaluationContext.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/227/trunk/an/components/pdp/src/an/xacml/engine/EvaluationContext.java
+END
+ContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/129/trunk/an/components/pdp/src/an/xacml/engine/ContextFactory.java
+END
+ContextFactoryHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/213/trunk/an/components/pdp/src/an/xacml/engine/ContextFactoryHelper.java
+END
+FunctionRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/223/trunk/an/components/pdp/src/an/xacml/engine/FunctionRegistry.java
+END
+DataAdapterPreprocessor.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/217/trunk/an/components/pdp/src/an/xacml/engine/DataAdapterPreprocessor.java
+END
+PolicyResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/217/trunk/an/components/pdp/src/an/xacml/engine/PolicyResolver.java
+END
+DefaultContextFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/213/trunk/an/components/pdp/src/an/xacml/engine/DefaultContextFactory.java
+END
+ContextHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/129/trunk/an/components/pdp/src/an/xacml/engine/ContextHandler.java
+END
+PolicyCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/228/trunk/an/components/pdp/src/an/xacml/engine/PolicyCache.java
+END
+PDP.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/227/trunk/an/components/pdp/src/an/xacml/engine/PDP.java
+END
+PDPInitializeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/129/trunk/an/components/pdp/src/an/xacml/engine/PDPInitializeException.java
+END
+AttributeRetrieverRegistry.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/217/trunk/an/components/pdp/src/an/xacml/engine/AttributeRetrieverRegistry.java
+END
+DataStoreHelper.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/213/trunk/an/components/pdp/src/an/xacml/engine/DataStoreHelper.java
+END
+DataStore.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/189/trunk/an/components/pdp/src/an/xacml/engine/DataStore.java
+END
+DefaultContextHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/227/trunk/an/components/pdp/src/an/xacml/engine/DefaultContextHandler.java
+END
+Cacheable.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/181/trunk/an/components/pdp/src/an/xacml/engine/Cacheable.java
+END
+CacheableExpiredException.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/129/trunk/an/components/pdp/src/an/xacml/engine/CacheableExpiredException.java
+END
+PDPStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/209/trunk/an/components/pdp/src/an/xacml/engine/PDPStatus.java
+END
+EvaluationResultCache.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/213/trunk/an/components/pdp/src/an/xacml/engine/EvaluationResultCache.java
+END
+AttributeRetriever.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/228/trunk/an/components/pdp/src/an/xacml/engine/AttributeRetriever.java
+END
+BuiltInFunctionExistsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/134/trunk/an/components/pdp/src/an/xacml/engine/BuiltInFunctionExistsException.java
+END
+EvaluationContextException.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/155/trunk/an/components/pdp/src/an/xacml/engine/EvaluationContextException.java
+END
+DefaultCacheable.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/213/trunk/an/components/pdp/src/an/xacml/engine/DefaultCacheable.java
+END
+DefaultDataStorePolicyResolver.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/217/trunk/an/components/pdp/src/an/xacml/engine/DefaultDataStorePolicyResolver.java
+END
+CacheManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/218/trunk/an/components/pdp/src/an/xacml/engine/CacheManager.java
+END

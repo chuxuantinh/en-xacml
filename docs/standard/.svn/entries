@@ -1,0 +1,81 @@
+9
+
+dir
+258
+https://enterprise-java-xacml.googlecode.com/svn/trunk/an/docs/standard
+https://enterprise-java-xacml.googlecode.com/svn
+
+
+
+2007-11-29T09:55:34.763914Z
+101
+ppzian
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1a419274-2339-0410-a5a5-13959ab9c6bd
+
+access_control-xacml-2.0-core-spec-os.doc
+file
+
+
+
+
+2008-03-14T04:58:49.520000Z
+0180293524d795d1e9f148dbb43ae363
+2007-11-29T09:55:34.763914Z
+101
+ppzian
+has-props
+
+access_control-xacml-2.0-core-spec-cd-04.doc
+file
+
+
+
+
+2008-03-14T04:58:51.051000Z
+32d1f1e16154f70954a77f299a838c62
+2007-10-24T09:59:00.511474Z
+47
+ppzian
+has-props
+
+access_control-xacml-2.0-policy-schema-os.xsd
+file
+
+
+
+
+2008-03-14T04:58:51.098000Z
+57a9f5b227d1409da13c876144a46b90
+2007-11-29T09:55:34.763914Z
+101
+ppzian
+
+access_control-xacml-2.0-context-schema-os.xsd
+file
+
+
+
+
+2008-03-14T04:58:51.333000Z
+6fcafe122afa02b5de7e23d6a90eeacd
+2007-11-29T09:55:34.763914Z
+101
+ppzian
+
+examples
+dir
+

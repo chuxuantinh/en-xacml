@@ -1,0 +1,55 @@
+9
+
+dir
+258
+https://enterprise-java-xacml.googlecode.com/svn/trunk/an/components/pdp/src/an/xacml/adapter
+https://enterprise-java-xacml.googlecode.com/svn
+
+
+
+2008-06-12T04:12:57.712856Z
+234
+ppzian
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1a419274-2339-0410-a5a5-13959ab9c6bd
+
+file
+dir
+
+DataAdapterException.java
+file
+
+
+
+
+2008-03-14T04:58:28.020000Z
+f39a6cce451daa4c21bb24d4b90f35dc
+2007-12-15T11:18:10.854504Z
+129
+ppzian
+
+DataAdapter.java
+file
+
+
+
+
+2008-05-13T03:56:54.388000Z
+783a323e78ef1fe954d95a56cf4cee27
+2008-05-13T04:19:35.444356Z
+214
+ppzian
+

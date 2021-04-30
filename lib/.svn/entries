@@ -1,0 +1,53 @@
+9
+
+dir
+258
+https://enterprise-java-xacml.googlecode.com/svn/trunk/an/lib
+https://enterprise-java-xacml.googlecode.com/svn
+
+
+
+2008-04-27T12:02:03.382263Z
+205
+ppzian
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1a419274-2339-0410-a5a5-13959ab9c6bd
+
+3rdparty.txt
+file
+
+
+
+
+2008-04-27T10:10:19.093000Z
+d5dcd0a896ab2bb9073c88840db726ab
+2008-04-27T12:02:03.382263Z
+205
+ppzian
+
+log4j-1.2.14.jar
+file
+
+
+
+
+2008-03-14T04:58:47.848000Z
+599b8ba07d1d04f0ea34414e861d7ad1
+2007-09-03T04:34:40.333856Z
+5
+ppzian
+has-props
+

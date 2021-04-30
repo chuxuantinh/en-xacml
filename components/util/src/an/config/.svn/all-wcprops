@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/231/trunk/an/components/util/src/an/config
+END
+ConfigElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/224/trunk/an/components/util/src/an/config/ConfigElement.java
+END
+ConfigurationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/129/trunk/an/components/util/src/an/config/ConfigurationException.java
+END
+Configuration.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/231/trunk/an/components/util/src/an/config/Configuration.java
+END

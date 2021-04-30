@@ -1,0 +1,46 @@
+9
+
+dir
+258
+https://enterprise-java-xacml.googlecode.com/svn/trunk/an/tests/conformance20
+https://enterprise-java-xacml.googlecode.com/svn
+
+
+
+2008-05-15T15:43:58.977093Z
+217
+ppzian
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1a419274-2339-0410-a5a5-13959ab9c6bd
+
+config
+dir
+
+src
+dir
+
+build.xml
+file
+
+
+
+
+2008-04-29T04:03:07.816000Z
+ee519b679c30b0d9f7110e1e7a2e160f
+2008-04-29T06:13:18.875082Z
+207
+ppzian
+

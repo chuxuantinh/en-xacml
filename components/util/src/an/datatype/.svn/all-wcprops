@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/231/trunk/an/components/util/src/an/datatype
+END
+rfc822Name.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/231/trunk/an/components/util/src/an/datatype/rfc822Name.java
+END
+hostName.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/231/trunk/an/components/util/src/an/datatype/hostName.java
+END
+InvalidRFC822NameException.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/231/trunk/an/components/util/src/an/datatype/InvalidRFC822NameException.java
+END
+dnsName.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/231/trunk/an/components/util/src/an/datatype/dnsName.java
+END
+InvalidHexBinaryException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/231/trunk/an/components/util/src/an/datatype/InvalidHexBinaryException.java
+END
+InvalidIPAddressException.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/231/trunk/an/components/util/src/an/datatype/InvalidIPAddressException.java
+END
+hexBinary.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/231/trunk/an/components/util/src/an/datatype/hexBinary.java
+END
+InvalidHostnameException.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/231/trunk/an/components/util/src/an/datatype/InvalidHostnameException.java
+END
+base64Binary.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/231/trunk/an/components/util/src/an/datatype/base64Binary.java
+END
+ipAddress.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/231/trunk/an/components/util/src/an/datatype/ipAddress.java
+END
+InvalidDNSNameException.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/231/trunk/an/components/util/src/an/datatype/InvalidDNSNameException.java
+END
+encryption.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/231/trunk/an/components/util/src/an/datatype/encryption.java
+END

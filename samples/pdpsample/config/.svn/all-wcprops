@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/223/trunk/an/samples/pdpsample/config
+END
+pdpsample.xml
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/219/trunk/an/samples/pdpsample/config/pdpsample.xml
+END
+runsample.bat
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/223/trunk/an/samples/pdpsample/config/runsample.bat
+END

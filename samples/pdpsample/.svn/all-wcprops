@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/223/trunk/an/samples/pdpsample
+END
+build.bat
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/218/trunk/an/samples/pdpsample/build.bat
+END
+build.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/218/trunk/an/samples/pdpsample/build.sh
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/218/trunk/an/samples/pdpsample/build.xml
+END

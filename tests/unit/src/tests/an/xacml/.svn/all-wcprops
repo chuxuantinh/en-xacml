@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/231/trunk/an/tests/unit/src/tests/an/xacml
+END
+FunctionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/144/trunk/an/tests/unit/src/tests/an/xacml/FunctionTest.java
+END
+DataTypeTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/231/trunk/an/tests/unit/src/tests/an/xacml/DataTypeTest.java
+END
+DefaultElementTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/131/trunk/an/tests/unit/src/tests/an/xacml/DefaultElementTest.java
+END

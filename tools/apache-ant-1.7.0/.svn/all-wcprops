@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/175/trunk/an/tools/apache-ant-1.7.0
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/INSTALL
+END
+LICENSE
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/LICENSE
+END
+LICENSE.dom
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/LICENSE.dom
+END
+KEYS
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/KEYS
+END
+LICENSE.xerces
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/LICENSE.xerces
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/README
+END
+fetch.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/fetch.xml
+END
+LICENSE.sax
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/LICENSE.sax
+END
+WHATSNEW
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/WHATSNEW
+END
+get-m2.xml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/get-m2.xml
+END
+NOTICE
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/NOTICE
+END

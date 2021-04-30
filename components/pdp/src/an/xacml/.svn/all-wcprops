@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/234/trunk/an/components/pdp/src/an/xacml
+END
+Expression.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/154/trunk/an/components/pdp/src/an/xacml/Expression.java
+END
+Matchable.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/154/trunk/an/components/pdp/src/an/xacml/Matchable.java
+END
+AdditionalNamespaceMappingEntry.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/160/trunk/an/components/pdp/src/an/xacml/AdditionalNamespaceMappingEntry.java
+END
+DefaultXACMLElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/231/trunk/an/components/pdp/src/an/xacml/DefaultXACMLElement.java
+END
+Evaluatable.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/154/trunk/an/components/pdp/src/an/xacml/Evaluatable.java
+END
+PolicySyntaxException.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/129/trunk/an/components/pdp/src/an/xacml/PolicySyntaxException.java
+END
+Version.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/129/trunk/an/components/pdp/src/an/xacml/Version.java
+END
+IndeterminateException.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/227/trunk/an/components/pdp/src/an/xacml/IndeterminateException.java
+END
+Constants.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/229/trunk/an/components/pdp/src/an/xacml/Constants.java
+END
+XACMLElement.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/226/trunk/an/components/pdp/src/an/xacml/XACMLElement.java
+END

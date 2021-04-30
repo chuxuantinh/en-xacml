@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/213/trunk/an/components/util/src/an/log
+END
+LogInitializationException.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/129/trunk/an/components/util/src/an/log/LogInitializationException.java
+END
+DefaultLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/213/trunk/an/components/util/src/an/log/DefaultLogger.java
+END
+ConsoleLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/129/trunk/an/components/util/src/an/log/ConsoleLogger.java
+END
+Log4jLogger.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/213/trunk/an/components/util/src/an/log/Log4jLogger.java
+END
+LogFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/213/trunk/an/components/util/src/an/log/LogFactory.java
+END
+Logger.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/213/trunk/an/components/util/src/an/log/Logger.java
+END

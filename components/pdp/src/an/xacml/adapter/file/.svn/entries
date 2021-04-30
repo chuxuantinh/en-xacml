@@ -1,0 +1,106 @@
+9
+
+dir
+258
+https://enterprise-java-xacml.googlecode.com/svn/trunk/an/components/pdp/src/an/xacml/adapter/file
+https://enterprise-java-xacml.googlecode.com/svn
+
+
+
+2008-06-12T04:12:57.712856Z
+234
+ppzian
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+1a419274-2339-0410-a5a5-13959ab9c6bd
+
+TextXMLElement.java
+file
+
+
+
+
+2008-05-14T09:59:43.197000Z
+7b4d71a57f2bca65ae2775898ecdc8b6
+2008-05-14T10:04:53.714055Z
+215
+ppzian
+
+policy
+dir
+
+XACMLParser.java
+file
+
+
+
+
+2008-06-11T06:35:34.577000Z
+7ecebf44c77c192a656986c9eb478df0
+2008-06-12T04:12:57.712856Z
+234
+ppzian
+
+XMLFileDataAdapterRegistry.java
+file
+
+
+
+
+2008-03-14T04:58:27.770000Z
+58544ee0db027d3a4bf29a47c6ddcf2c
+2008-01-23T10:16:50.509513Z
+170
+ppzian
+
+context
+dir
+
+XMLFileDataStore.java
+file
+
+
+
+
+2008-05-26T04:56:18.105000Z
+8e4992599c7758eaa399abc258b38882
+2008-05-26T06:58:19.730225Z
+224
+ppzian
+
+PolicyNotFoundException.java
+file
+
+
+
+
+2008-03-14T04:58:27.786000Z
+f426a7226481d9527f04b710c2c89b4c
+2008-01-06T13:30:05.318854Z
+149
+ppzian
+
+AbstractFileAdapterElement.java
+file
+
+
+
+
+2008-05-29T03:21:23.604000Z
+cdb73a66cd2180032f69958fb7427656
+2008-05-29T12:33:12.232434Z
+228
+ppzian
+

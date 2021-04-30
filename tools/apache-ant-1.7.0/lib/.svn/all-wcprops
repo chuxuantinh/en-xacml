@@ -1,0 +1,341 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/175/trunk/an/tools/apache-ant-1.7.0/lib
+END
+junit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/175/trunk/an/tools/apache-ant-1.7.0/lib/junit.jar
+END
+ant-commons-logging.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-commons-logging.jar
+END
+ant-apache-oro.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-apache-oro.jar
+END
+ant-testutil.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-testutil.jar
+END
+ant-nodeps-1.7.0.pom
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-nodeps-1.7.0.pom
+END
+ant-jdepend.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-jdepend.jar
+END
+ant-javamail-1.7.0.pom
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-javamail-1.7.0.pom
+END
+ant-apache-resolver-1.7.0.pom
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-apache-resolver-1.7.0.pom
+END
+ant-launcher-1.7.0.pom
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-launcher-1.7.0.pom
+END
+ant-jdepend-1.7.0.pom
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-jdepend-1.7.0.pom
+END
+ant-javamail.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-javamail.jar
+END
+ant-parent-1.7.0.pom
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-parent-1.7.0.pom
+END
+ant-apache-log4j.jar
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-apache-log4j.jar
+END
+ant-testutil-1.7.0.pom
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-testutil-1.7.0.pom
+END
+ant-antlr.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-antlr.jar
+END
+ant-starteam.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-starteam.jar
+END
+ant-netrexx.jar
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-netrexx.jar
+END
+ant-apache-regexp-1.7.0.pom
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-apache-regexp-1.7.0.pom
+END
+libraries.properties
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/libraries.properties
+END
+ant-trax.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-trax.jar
+END
+ant-netrexx-1.7.0.pom
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-netrexx-1.7.0.pom
+END
+ant-commons-net.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-commons-net.jar
+END
+ant-apache-bsf-1.7.0.pom
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-apache-bsf-1.7.0.pom
+END
+ant-jmf.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-jmf.jar
+END
+ant-starteam-1.7.0.pom
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-starteam-1.7.0.pom
+END
+ant-jai.jar
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-jai.jar
+END
+ant-stylebook-1.7.0.pom
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-stylebook-1.7.0.pom
+END
+ant-antlr-1.7.0.pom
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-antlr-1.7.0.pom
+END
+ant-apache-resolver.jar
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-apache-resolver.jar
+END
+ant-swing-1.7.0.pom
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-swing-1.7.0.pom
+END
+ant-apache-regexp.jar
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-apache-regexp.jar
+END
+ant-apache-bcel-1.7.0.pom
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-apache-bcel-1.7.0.pom
+END
+ant-trax-1.7.0.pom
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-trax-1.7.0.pom
+END
+ant-jai-1.7.0.pom
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-jai-1.7.0.pom
+END
+xml-apis.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/xml-apis.jar
+END
+ant-nodeps.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-nodeps.jar
+END
+ant-apache-oro-1.7.0.pom
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-apache-oro-1.7.0.pom
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/README
+END
+ant-apache-bcel.jar
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-apache-bcel.jar
+END
+ant-jsch-1.7.0.pom
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-jsch-1.7.0.pom
+END
+ant-jsch.jar
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-jsch.jar
+END
+ant-jmf-1.7.0.pom
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-jmf-1.7.0.pom
+END
+ant-weblogic-1.7.0.pom
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-weblogic-1.7.0.pom
+END
+ant.jar
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant.jar
+END
+ant-junit-1.7.0.pom
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-junit-1.7.0.pom
+END
+ant-weblogic.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-weblogic.jar
+END
+ant-1.7.0.pom
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-1.7.0.pom
+END
+ant-swing.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-swing.jar
+END
+ant-commons-logging-1.7.0.pom
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-commons-logging-1.7.0.pom
+END
+ant-stylebook.jar
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-stylebook.jar
+END
+ant-launcher.jar
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-launcher.jar
+END
+ant-commons-net-1.7.0.pom
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-commons-net-1.7.0.pom
+END
+ant-apache-bsf.jar
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-apache-bsf.jar
+END
+ant-apache-log4j-1.7.0.pom
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-apache-log4j-1.7.0.pom
+END
+xercesImpl.jar
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/xercesImpl.jar
+END
+ant-junit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/130/trunk/an/tools/apache-ant-1.7.0/lib/ant-junit.jar
+END

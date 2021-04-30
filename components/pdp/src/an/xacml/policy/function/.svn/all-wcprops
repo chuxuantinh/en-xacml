@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/231/trunk/an/components/pdp/src/an/xacml/policy/function
+END
+StringFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/226/trunk/an/components/pdp/src/an/xacml/policy/function/StringFunctions.java
+END
+CombiningAlgorithms.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/227/trunk/an/components/pdp/src/an/xacml/policy/function/CombiningAlgorithms.java
+END
+BuiltInFunctionNotImplementedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/134/trunk/an/components/pdp/src/an/xacml/policy/function/BuiltInFunctionNotImplementedException.java
+END
+LogicalFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/226/trunk/an/components/pdp/src/an/xacml/policy/function/LogicalFunctions.java
+END
+XACMLFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/135/trunk/an/components/pdp/src/an/xacml/policy/function/XACMLFunction.java
+END
+BuiltInFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/222/trunk/an/components/pdp/src/an/xacml/policy/function/BuiltInFunction.java
+END
+XPathFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/227/trunk/an/components/pdp/src/an/xacml/policy/function/XPathFunctions.java
+END
+HighOrderBagFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/226/trunk/an/components/pdp/src/an/xacml/policy/function/HighOrderBagFunctions.java
+END
+LogicalFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/218/trunk/an/components/pdp/src/an/xacml/policy/function/LogicalFunction.java
+END
+NumberFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/227/trunk/an/components/pdp/src/an/xacml/policy/function/NumberFunctions.java
+END
+CommonFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/227/trunk/an/components/pdp/src/an/xacml/policy/function/CommonFunctions.java
+END
+EquivalentFunction.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/183/trunk/an/components/pdp/src/an/xacml/policy/function/EquivalentFunction.java
+END
+MatchFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/231/trunk/an/components/pdp/src/an/xacml/policy/function/MatchFunctions.java
+END
+DateTimeFunctions.java
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/226/trunk/an/components/pdp/src/an/xacml/policy/function/DateTimeFunctions.java
+END
+XACMLFunctionProvider.java
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/131/trunk/an/components/pdp/src/an/xacml/policy/function/XACMLFunctionProvider.java
+END

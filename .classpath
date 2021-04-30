@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="components/pdp/src"/>
+	<classpathentry kind="src" path="components/util/src"/>
+	<classpathentry kind="src" path="components/dems/src"/>
+	<classpathentry kind="src" path="tests/unit/src"/>
+	<classpathentry kind="src" path="tests/indexing/src"/>
+	<classpathentry kind="src" path="tests/conformance20/src"/>
+	<classpathentry kind="src" path="samples/pdpsample/src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="lib/log4j-1.2.14.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="output" path="eclipse"/>
+</classpath>
